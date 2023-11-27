@@ -1,6 +1,6 @@
 Mark SJ's Cloud Resume.
 
-This is my take on the cloud resume challenge built on AWS. It's a static website stored on S3 with a visitor counter built using Lambda. The website is built using HTML, CSS, and Javascript. I've excluded IaaC for now.
+Hi folks, this is my cloud resume built on AWS. It's a static website stored on S3 with a visitor counter built using Lambda. The website is built using HTML, CSS, and Javascript. I've excluded IaaC for now.
 
 Services used:
 S3
